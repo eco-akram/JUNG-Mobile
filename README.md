@@ -1,5 +1,14 @@
 # JUNG Mobile
 
+[![Expo](https://img.shields.io/badge/Expo-52-000020?logo=expo&logoColor=white)](https://expo.dev)
+[![React Native](https://img.shields.io/badge/React%20Native-0.76-61DAFB?logo=react&logoColor=black)](https://reactnative.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.3-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![NativeWind](https://img.shields.io/badge/NativeWind-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)](https://www.nativewind.dev)
+[![Supabase](https://img.shields.io/badge/Supabase-backend-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com)
+[![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android%20%7C%20Web-lightgrey)](https://expo.dev)
+
+> Cross-platform mobile app built with Expo and React Native — file-based routing, Tailwind-style styling, Supabase backend, and EAS Build CI/CD out of the box.
+
 A cross-platform mobile application built with [Expo](https://expo.dev) and React Native. Features file-based routing, Tailwind-style styling via NativeWind, Supabase for backend services, and EAS Build for streamlined CI/CD.
 
 ## Tech Stack
