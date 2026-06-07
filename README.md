@@ -11,6 +11,12 @@
 
 A cross-platform mobile application built with [Expo](https://expo.dev) and React Native. Features file-based routing, Tailwind-style styling via NativeWind, Supabase for backend services, and EAS Build for streamlined CI/CD.
 
+## Related
+
+This app is part of the JUNG ecosystem. Content — products, categories, and recommendation questions — is managed through the companion web dashboard:
+
+**[JUNG Admin Panel](https://github.com/eco-akram/JUNG-Admin-Pannel)** — Next.js admin panel for managing products, Q&A categories, and users. Both projects share the same Supabase backend.
+
 ## Tech Stack
 
 | Layer | Technology |
